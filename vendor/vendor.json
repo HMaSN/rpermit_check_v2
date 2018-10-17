@@ -1,0 +1,17 @@
+{
+    "heroku": {
+        "goVersion": "go1.8.1",
+	"install":["./..."]
+         },
+    "comment": "",
+    "ignore": "test",
+    "package": [
+        {
+            "checksumSHA1": "",
+            "comment": "v1.0rc1-110-g4cc2de6",
+            "path": "github.com/hoisie/redis",
+            "revision": "b5c6e81454e0395c280f220d82a6854fd0fcf42e"
+        }
+    ],
+    "rootPath": "_"
+}
