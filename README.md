@@ -1,7 +1,11 @@
 # rpermit_check_v2
+
 This app checks the status of the German residence permit.
+
 The app uses Redis, the permit ID as the key and the last status as value.
+
 Mailgun is used to send email notification for the updates.
+
 | Constant | Description |
 | ------ | ------ |
 |CheckURL|the URL used to check the issuing of the Permit status|
